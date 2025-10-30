@@ -1,6 +1,6 @@
 # keyLOGGER 
 **Overview**  
-A keylogger is software that records keyboard activity on a device. This repository contains an prototype intended strictly defensive testing in isolated lab environments.
+A keylogger is software that records keyboard activity on a device. This repository contains an prototype intended strictly for defensive testing in isolated lab environments.
 
 **This program helps to:** <br>
 -> Capture and save your keystrokes to a "keylogger.txt" file <br>
