@@ -12,5 +12,4 @@ A keylogger is software that records keyboard activity on a device. This reposit
 **Important — Legal & Ethical Notice**  
 Unauthorized deployment of keyloggers is illegal and unethical. Do not use this code on systems you do not own or without explicit written permission. <br>
 <br>
-**🧾Note** <br>
-Engage via Pull Requests 🔄
+**🧾Note:** Engage via Pull Requests 🔄
